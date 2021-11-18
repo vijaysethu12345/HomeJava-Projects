@@ -5,10 +5,7 @@
  */
 package loanassistant1;
 
-/**
- *
- * @author sivak
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
